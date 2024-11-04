@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="html5" src="https://dbdb.io/media/logos/visualfoxpro.png" width="50" height="50"/>
+  <img align="center" alt="html5" src="https://dbdb.io/media/logos/visualfoxpro.png" width="50" height="50"/>Fox
   <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
